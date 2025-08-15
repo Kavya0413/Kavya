@@ -22,5 +22,7 @@ Github stats📌
 ![Kavya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavya&theme=tokyonight)
 
 ![Kavya's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Kavya&theme=tokyo-night)
+---
+>⚡️*"code is like humor.When you have to explain it,it's bad."*
 
 
