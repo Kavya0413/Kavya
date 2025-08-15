@@ -17,7 +17,10 @@ Tools I use📍
 ______________________________________________
 Github stats📌
 
+![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya&show_icons=true&theme=tokyonight)
+
 ![Kavya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavya&theme=tokyonight)
+
 ![Kavya's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Kavya&theme=tokyo-night)
 
 
