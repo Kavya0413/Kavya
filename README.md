@@ -7,4 +7,6 @@ I'm Kavya ,a passionate learner
 - 🎯 Goal to build cool projects & share them with the world
 - ♟️ Love solving puzzles and playing chess 
 _____________________________________________
+Github stats📌
+
 https://github-readme-stats.vercel.app/api?username=Kavya&show_icons=true&theme=tokyonight
