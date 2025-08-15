@@ -14,5 +14,5 @@ _____________________________________________
 Tools I use📍
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![chatgpt](https://img.shields.io/badge/chatgpt-181717?style=for-the-badge&logo=chatgpt&logoColor=white)
+
 
