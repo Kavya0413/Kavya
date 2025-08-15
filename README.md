@@ -19,5 +19,7 @@ Tools I use📍
 [![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 
+![Kavya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavya&theme=tokyonight)
+![Kavya's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Kavya&theme=tokyo-night)
 
 
