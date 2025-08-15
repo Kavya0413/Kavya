@@ -15,5 +15,8 @@ Tools I use📍
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=OpenAI&logoColor=white)](https://chat.openai.com/)
+[![Meta AI](https://img.shields.io/badge/Meta%20AI-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://www.meta.ai/)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
+
 
 
